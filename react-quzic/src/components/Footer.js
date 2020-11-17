@@ -53,7 +53,7 @@ function Footer() {
                     <div className="social-medi-wrap">
                         <div className="footer-logo">
                             <Link className="social-logo">
-                                QUZIC <i className="fab fa-typo3" />
+                                QUZIC <i class="fas fa-music" />
                             </Link>
                         </div>
                         <small className='website-rights'>QUZIC 2020</small>
