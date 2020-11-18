@@ -1,8 +1,13 @@
 import React from 'react'
 import '../../App.css'
+import WelcomeQuiz from '../WelcomeQuiz';
 
 function Quiz() {
-    return <h1 className='quiz-up'>Quiz!</h1>;
+    return (
+        <>
+            <WelcomeQuiz />
+        </>
+    )
 }
 
 export default Quiz;
