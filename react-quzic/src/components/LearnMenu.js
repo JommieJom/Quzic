@@ -11,7 +11,7 @@ function LearnMenu() {
                     <ul className="learn_items">
                         <LearnItem
                             src="images/reading.png"
-                            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                            text="The system of music notation allows us to specify two of the main characteristics of music: the note to be played and its duration. The following pages show the essential aspects of music reading"
                             label='Reading music'
                             path='/reading-menu'
                         />
