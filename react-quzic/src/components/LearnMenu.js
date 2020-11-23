@@ -12,8 +12,8 @@ function LearnMenu() {
                         <LearnItem
                             src="images/reading.png"
                             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-                            label='The Basics'
-                            path='/'
+                            label='Reading music'
+                            path='/reading-menu'
                         />
                         <LearnItem
                             src="images/intervals.png"
