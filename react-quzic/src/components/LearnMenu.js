@@ -19,7 +19,7 @@ function LearnMenu() {
                             src="images/intervals.png"
                             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                             label='Rythm and meter'
-                            path='/'
+                            path='/rythm-menu'
                         />
 
                     </ul>
