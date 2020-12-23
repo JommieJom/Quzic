@@ -13,7 +13,7 @@ function ListReadingMusic() {
                         <ListItem
                             src=""
                             text="Beats and measure"
-                            path='/'
+                            path='/learn1-1'
                         />
                     </ul>
                     <ul className="list_learn_items">
