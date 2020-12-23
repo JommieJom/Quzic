@@ -11,6 +11,7 @@ import Footer from './components/Footer';
 import QuizOn from './components/pages/QuizOn';
 import ReadingMusicMenu from './components/pages/ReadingMusicMenu';
 import RythmMusicMenu from './components/pages/RythmMusicMenu';
+import Learn1_1 from './components/pages/learnpages/LearnPage1_1';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path='/quiz-on' component={QuizOn} />
           <Route path='/reading-menu' component={ReadingMusicMenu} />
           <Route path='/rythm-menu' component={RythmMusicMenu} />
+          <Route path='/learn1-1' component={Learn1_1} />
         </switch>
         <Footer />
       </Router>

@@ -1,11 +1,11 @@
 import React from 'react'
 import '../../App.css'
-import ListReadingMusic from '../ListRythmMenu';
+import ListRythmMusic from '../ListRythmMenu';
 
 function RythmMusicMenu() {
     return (
         <>
-            <ListReadingMusic />
+            <ListRythmMusic />
         </>
     )
 }
