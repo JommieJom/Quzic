@@ -1,6 +1,7 @@
 import React from 'react';
 import loginImg from '../login.svg';
 import './Login.scss';
+import { Link } from 'react-router-dom';
 
 
 export class Login extends React.Component {
@@ -28,9 +29,9 @@ export class Login extends React.Component {
           </div>
         </div>
         <div className="footer">
-          <button type="button" className="signup-btn">
-            Login
-          </button>
+          <Link to='/user-profile'>
+          <button type="button" className="signup-btn">Login</button>
+          </Link>
         </div>
       </div>
     );
