@@ -20,14 +20,14 @@ function ListReadingMusic() {
                         <ListItem
                             src=""
                             text="Time Signature"
-                            path='/'
+                            path='/learn1-2'
                         />
                     </ul>
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
                             text="Note Value"
-                            path='/'
+                            path='/learn1-3'
                         />
                     </ul>
                     <ul className="list_learn_items">
