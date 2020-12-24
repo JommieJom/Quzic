@@ -6,7 +6,7 @@ import ListItem from '../ListItem';
 function LearnSection1_3(props) {
     return (
         <div className="learn">
-            <h1>Reading Music : Beats and Measures</h1>
+            <h1>Reading Music : Note Value</h1>
 
             <img src='images/learnimages/1-3.png' />
 
