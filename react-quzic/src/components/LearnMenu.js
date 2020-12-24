@@ -17,7 +17,7 @@ function LearnMenu() {
                         />
                         <LearnItem
                             src="images/intervals.png"
-                            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                            text="An interval measures the distance between two notes. We have to know how to identify intervals to be able to identify chords and scales."
                             label='Rythm and meter'
                             path='/rythm-menu'
                         />
@@ -27,13 +27,13 @@ function LearnMenu() {
                     <ul className="learn_items">
                         <LearnItem
                             src="images/scales.png"
-                            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                            text="In our musical system, octaves are divided into twelve notes. A scale is a series of notes selected among these twelve notes. Composers write melodies and build chords to harmonize melodies using scale notes."
                             label='Scales'
                             path='/'
                         />
                         <LearnItem
                             src="images/learnchords.png"
-                            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. ipsum dolor sit amet, consectetur adipiscing elit."
+                            text="Three or more notes simultaneously sounded form a chord."
                             label='Chord Theory'
                             path='/'
                         />
@@ -47,15 +47,15 @@ function LearnMenu() {
 
                         <LearnItem
                             src="images/learnharmonics.png"
-                            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. ipsum dolor sit amet, consectetur adipiscing elit."
+                            text="Harmonic functions explain the relationship between chords. They are essential in the development of concepts such as tonality and key."
                             label='Harmonic Functions'
                             path='/'
                         />
                         <LearnItem
                             src="images/perfectPitch3.jpg"
-                            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                            text="In this exercise, you will hear a single note. Your goal is to identify the name of the note. For best results, practice a little bit every day."
                             label='Perfect Pitch'
-                            path='/'
+                            path='/perfectpitch'
                         />
                     </ul>
 

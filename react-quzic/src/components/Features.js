@@ -11,7 +11,7 @@ function Features() {
                     <ul className="features_items">
                         <FeatureItem 
                         src="images/slogan1.png" 
-                        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                        text="Start with the Learning section. We suggest you follow the order of the topics "
                         label='Learn Music'
                         path='/learn-up' 
                         />
