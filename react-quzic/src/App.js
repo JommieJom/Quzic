@@ -11,6 +11,8 @@ import Footer from './components/Footer';
 import QuizOn from './components/pages/QuizOn';
 import ReadingMusicMenu from './components/pages/ReadingMusicMenu';
 import RythmMusicMenu from './components/pages/RythmMusicMenu';
+import ScaleMusicMenu from './components/pages/ScaleMusicMenu';
+import ChordMusicMenu from './components/pages/ChordMusicMenu';
 import UserProfile from './components/pages/UserProfile';
 import Learn1_1 from './components/pages/learnpages/LearnPage1_1';
 import Learn1_2 from './components/pages/learnpages/LearnPage1_2';
@@ -31,6 +33,8 @@ function App() {
           <Route path='/quiz-on' component={QuizOn} />
           <Route path='/reading-menu' component={ReadingMusicMenu} />
           <Route path='/rythm-menu' component={RythmMusicMenu} />
+          <Route path='/scale-menu' component={ScaleMusicMenu} />
+          <Route path='/chord-menu' component={ChordMusicMenu} />
           <Route path='/user-profile' component={UserProfile} />
           <Route path='/learn1-1' component={Learn1_1} />
           <Route path='/learn1-2' component={Learn1_2} />

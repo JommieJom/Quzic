@@ -29,13 +29,13 @@ function LearnMenu() {
                             src="images/scales.png"
                             text="In our musical system, octaves are divided into twelve notes. A scale is a series of notes selected among these twelve notes. Composers write melodies and build chords to harmonize melodies using scale notes."
                             label='Scales'
-                            path='/'
+                            path='/scale-menu'
                         />
                         <LearnItem
                             src="images/learnchords.png"
                             text="Three or more notes simultaneously sounded form a chord."
                             label='Chord Theory'
-                            path='/'
+                            path='/chord-menu'
                         />
 
 

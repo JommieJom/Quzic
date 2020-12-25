@@ -27,7 +27,7 @@ function Features() {
                         <FeatureItem 
                         src="images/slogan2.png" 
                         text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. ipsum dolor sit amet, consectetur adipiscing elit."
-                        label='Achievement!'
+                        label='Search Song on key!'
                         path='/' 
                         />
                         <FeatureItem 
