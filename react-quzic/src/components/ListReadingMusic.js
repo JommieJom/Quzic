@@ -16,7 +16,6 @@ function ListReadingMusic() {
                             path='/learn1-1'
                         />
                     </ul>
-                    <a href="learnSection1_2">
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
@@ -24,7 +23,6 @@ function ListReadingMusic() {
                             path='/learn1-2'
                         />
                     </ul>
-                    </a>
                     <ul className="list_learn_items">
                         <ListItem
                             src=""

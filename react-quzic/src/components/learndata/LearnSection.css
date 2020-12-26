@@ -17,6 +17,14 @@ img {
   width: 100%;
 }
 
+.imageOrder {
+  width: 20%;
+}
+
+.imageOrderL {
+  width: 50%;
+}
+
 .list_learn_container {
   display: flex;
   flex-flow: column;

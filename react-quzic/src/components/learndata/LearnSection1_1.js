@@ -31,25 +31,6 @@ function LearnSection1_1(props) {
                 </div>
             </div>
 
-            <div id="learnSection1_2">
-                <h1>Reading Music : Time Signature</h1>
-                <img src='images/learnimages/1-2.png' />
-
-                <div className="list_learn_container">
-                    <div className="list_learn_wrapper">
-                        <ul className="list_learn_items">
-                            <LearnDataItem
-                                src=""
-                                text="<< Reading Music"
-                                path='/reading-menu'
-                            />
-                        </ul>
-                    </div>
-
-                </div>
-
-            </div>
-
 
 
 

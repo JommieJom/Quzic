@@ -13,14 +13,14 @@ function ListRythmMenu() {
                         <ListItem
                             src=""
                             text="Name of Intervals"
-                            path='/'
+                            path='/learn2-1'
                         />
                     </ul>
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
                             text="Time Interval Quality"
-                            path='/'
+                            path='/learn2-2'
                         />
                     </ul>
                     <ul className="list_learn_items">

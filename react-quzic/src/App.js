@@ -17,6 +17,8 @@ import UserProfile from './components/pages/UserProfile';
 import Learn1_1 from './components/pages/learnpages/LearnPage1_1';
 import Learn1_2 from './components/pages/learnpages/LearnPage1_2';
 import Learn1_3 from './components/pages/learnpages/LearnPage1_3';
+import Learn2_1 from './components/pages/learnpages/LearnPage2_1';
+import Learn2_2 from './components/pages/learnpages/LearnPage2_2';
 import PerfectPitch from './components/pages/learnpages/PerfectPitchPage';
 
 function App() {
@@ -39,6 +41,8 @@ function App() {
           <Route path='/learn1-1' component={Learn1_1} />
           <Route path='/learn1-2' component={Learn1_2} />
           <Route path='/learn1-3' component={Learn1_3} />
+          <Route path='/learn2-1' component={Learn2_1} />
+          <Route path='/learn2-2' component={Learn2_2} />
           <Route path='/perfectpitch' component={PerfectPitch} />
         </switch>
         <Footer />
