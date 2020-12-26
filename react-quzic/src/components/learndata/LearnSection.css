@@ -25,6 +25,10 @@ img {
   width: 50%;
 }
 
+.imageGif {
+  width: 30%;
+}
+
 .list_learn_container {
   display: flex;
   flex-flow: column;

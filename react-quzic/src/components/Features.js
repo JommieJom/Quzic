@@ -16,25 +16,10 @@ function Features() {
                         path='/learn-up' 
                         />
                         <FeatureItem 
-                        src="images/slogan4.png" 
+                        src="images/slogan3.png" 
                         text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                         label='Quiz Yourself'
                         path='/quiz-up' 
-                        />
-                    </ul>
-
-                    <ul className="features_items">
-                        <FeatureItem 
-                        src="images/slogan2.png" 
-                        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. ipsum dolor sit amet, consectetur adipiscing elit."
-                        label='Search Song on key!'
-                        path='/' 
-                        />
-                        <FeatureItem 
-                        src="images/slogan3.png" 
-                        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-                        label='Build your own piece'
-                        path='/' 
                         />
                     </ul>
                 

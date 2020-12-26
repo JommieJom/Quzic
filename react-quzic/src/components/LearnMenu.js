@@ -49,7 +49,7 @@ function LearnMenu() {
                             src="images/learnharmonics.png"
                             text="Harmonic functions explain the relationship between chords. They are essential in the development of concepts such as tonality and key."
                             label='Harmonic Functions'
-                            path='/'
+                            path='/harmonic-menu'
                         />
                         <LearnItem
                             src="images/perfectPitch3.jpg"

@@ -16,10 +16,10 @@ function LearnSection2_2(props) {
                 </p>
                 <br />
 
-                <img className='imageOrderL' src='images/learnimages/semitones.gif' />
+                <img className='imageGif' src='images/learnimages/semitones.gif' />
                 <p>Some seconds have two half steps or a whole step and some seconds have one half step.<br/> 
                     In the following example, the second from C to D has a whole step while the one from B to C has only a half step:</p><br/>
-                <img className='imageOrderL' src='images/learnimages/major-minor-2.gif' /><br/>
+                <img className='imageGif' src='images/learnimages/major-minor-2.gif' /><br/>
                 
                 <div className="list_learn_container">
                     <div className="list_learn_wrapper">

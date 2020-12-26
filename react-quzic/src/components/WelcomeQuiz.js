@@ -14,7 +14,9 @@ function WelcomeQuiz() {
                 <Link to='/quiz-on' className='btn-mobile'>
                     <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>Start!</Button>
                 </Link>
+                <Link to='/about-us' className='btn-mobile'>
                 <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>LEARN MORE</Button>
+                </Link>
             </div>
         </div>
     )

@@ -5,7 +5,7 @@ function QuizChoicesItem(props) {
     return (
         <>
         <li className="choice_item">
-            <Link className="choice_item_link" to={props.path}>
+            <Link className="choice_item_link" onClick={props.onClick}>
                 <figure className="choice_item_pic-wrap" data-category={props.label}>
                     <img src={props.src} alt="choice Image" className="choice_item_img" />
                 </figure>

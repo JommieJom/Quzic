@@ -15,6 +15,11 @@ function PerfectPitchList() {
                         text="Play note"
                         path='/'
                     />
+                    <ListItem
+                        src=""
+                        text="Next"
+                        path='/'
+                    />
                 </ul>
                 <ul className="list_learn_items">
                     <ListItem

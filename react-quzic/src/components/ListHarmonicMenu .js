@@ -3,51 +3,72 @@ import ListItem from './ListItem';
 import './ListLearnMenu.css';
 
 
-function ListScaleMenu() {
+function ListHarmonicMenu() {
     return (
         <div className="list_learn">
-            <h1>Scales</h1>
+            <h1>Harmonic Functions</h1>
             <div className="list_learn_container">
                 <div className="list_learn_wrapper">
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
-                            text="Major and Minor Scales"
-                            path='/learn3-1'
-                        />
-                    </ul>
-                    <ul className="list_learn_items">
-                        <ListItem
-                            src=""
-                            text="Whole and Half Steps in Scales"
-                            path='/learn3-2'
-                        />
-                    </ul>
-                    <ul className="list_learn_items">
-                        <ListItem
-                            src=""
-                            text="Relative Scales"
+                            text="Basic Harmonic Functions"
                             path='/'
                         />
                     </ul>
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
-                            text="Minor Scales"
+                            text="The Tonic"
                             path='/'
                         />
                     </ul>
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
-                            text="Other Scales"
+                            text="The Dominant and Subdominant"
                             path='/'
                         />
                     </ul>
                     <ul className="list_learn_items">
                         <ListItem
                             src=""
-                            text="Scale Constructor"
+                            text="An example using I, IV and V"
+                            path='/'
+                        />
+                    </ul>
+                    <ul className="list_learn_items">
+                        <ListItem
+                            src=""
+                            text="Identifying the I, IV and V degrees"
+                            path='/'
+                        />
+                    </ul>
+                    <ul className="list_learn_items">
+                        <ListItem
+                            src=""
+                            text="The II and VII Degrees"
+                            path='/'
+                        />
+                    </ul>
+                    <ul className="list_learn_items">
+                        <ListItem
+                            src=""
+                            text="The III and VI Degrees"
+                            path='/'
+                        />
+                    </ul>
+                    <ul className="list_learn_items">
+                        <ListItem
+                            src=""
+                            text="Harmonic Functions in Minor Keys"
+                            path='/'
+                        />
+                    </ul>
+                    <ul className="list_learn_items">
+                        <ListItem
+                            src=""
+                            text="Harmonic Analysis"
                             path='/'
                         />
                     </ul>
@@ -58,4 +79,4 @@ function ListScaleMenu() {
     )
 }
 
-export default ListScaleMenu;
+export default ListHarmonicMenu;
